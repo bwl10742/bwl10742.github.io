@@ -1,0 +1,41 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+        <title>Index.html</title>
+      <style type="text/css">
+		P {font-family:"Times New Roman"}
+		body {text-align:left;background-color:#808000}
+		table#t01 {background-color:#fdf5e6}
+		ol#l01 {text-align: left; list-style-position:inside}
+		table.center {margin-left:auto;margin-right:auto;}
+	</style>
+</head>
+	<body>
+    	<h1><strong>Deer<strong></h1>
+    	<h2><sub>By: Bauer Lustig</sub></h2>
+    		<p><img src="http://mediad.publicbroadcasting.net/p/wmky/files/201610/deer_10-26.jpg" alt="Deer" width="304" height="228"></p>
+			<form style="display: inline" action="https://www.pexels.com/search/deer/" method="get">
+				<p><button>Other Deer Photos</button></p>
+  			</form>
+			<p>Deer are some of the most common mammals found throughout nature in North America. They can live in many different sorts of biomes from tundras to rainforests, with most living in deciduous forests. There are about 30 different species of deer. Among those species are the white-tailed deer, the moose, the caribou, and the mule deer. Deer primarily eat vegetation such as grass or corn. Antelopes are also considered as a part of the deer family. Here are some facts about the size of deer.</p>
+		 	
+		<table id="t01" border="1" class="center">
+		<tr>
+			<th>Deer Species</th><th>White-Tailed Deer</th><th>Caribou</th><th>Mule Deer</th>
+		</tr>
+		<tr>
+			<td>Average Height</td><td>36 in</td><td>70 in</td><td>38 in</td>
+		<tr>
+			<td>Average Weight</td><td>275 lb</td><td>380 lb</td><td>160 lb</td>
+		</table>
+		 <p>Deer are very important to mankind. For centuries, they have been essential to our survival and utilized in many different areas of entertainment. Art made in the form of deer can be dated back to the prehistoric era, with paintings of them on caves. Deer have also always been a valuable food source. The taste of venison is unmatched. Deer are also hunted for sport. Deer hunting is a coveted activity among many people.</p>
+		 <p>There are many deer species in the world. Here are my three favorite:</p>
+			 <ol id="l01">
+  				<li>Elk</li>
+ 				<li>White-Tailed Deer</li>
+				<li>Caribou</li>
+			</ol>
+		 <p><b>For more information on deer, you can go to:</b> <a href="https://en.wikipedia.org/wiki/Deer"> This Wikipedia Page on deer.</a></p>
+	</body>
+</html>
